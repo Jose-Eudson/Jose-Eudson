@@ -2,7 +2,7 @@
 
 🧠 I'm focused on frontend and web application development.
 
-💼 At the moment: **Working as a software developer and building SaaS platforms.**
+💼 At the moment: **Actively seeking new challenges as a Frontend Intern or Junior Developer.**
 
 💻 Hard Skills:
 
