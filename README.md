@@ -1,4 +1,4 @@
-👋 Hi, i'm **Eudson Cordeiro (Dinho)**. I'm currently a Computer Science student at UEPB.
+👋 Hi, i'm **Eudson Cordeiro**. I'm currently a Computer Science student at UEPB.
 
 🧠 I'm focused on frontend and web application development.
 
@@ -8,7 +8,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,java,spring" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,node,git,vscode," />
   </a>
 </p>
 
